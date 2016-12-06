@@ -6,10 +6,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/projekt-kreatywa/pomegranate-chat-ng2-md-fire.git"
+    "url": "https://github.com/projekt-kreatywa/kick-off-ng2-md.git"
   },
   "bugs": {
-    "url": "https://github.com/projekt-kreatywa/pomegranate-chat-ng2-md-fire/issues"
+    "url": "https://github.com/projekt-kreatywa/kick-off-ng2-md/issues"
   },
   "keywords": [
     "angular 2",

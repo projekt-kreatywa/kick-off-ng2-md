@@ -1,3 +1,25 @@
+# kick-off-ng2-md
+
+kick-off is a directory of templates developed by projekt:kreatywa for series of blog posts by impertinent creations
+
+this incarnation of kick-off template is an [angular2](https://angular.io/), single page web app built with [angular-cli](https://cli.angular.io/) and material design
+
+---
+
+kick-off-ng2-md is packed with all that stuff that usually comes with [angular-cli](https://cli.angular.io/)'s `ng new ...` command:
+
+- [typescript](https://www.typescriptlang.org/) and
+- [webpack](https://webpack.github.io/). already mentioned
+- [material design](https://github.com/angular/material2) and
+- [scss](http://sass-lang.com/). baked in tests by:
+- [jasmine](https://jasmine.github.io/),
+- [karma](https://karma-runner.github.io/1.0/index.html),
+- [istanbul](https://istanbul.js.org/) for coverage and 
+- [protractor](http://www.protractortest.org/#) for e2e tests and
+- loads of other stuff so check out [package.json](/blob/master/package.json) to get better idea about what's in.
+
+---
+
 # KickOffNg2Md
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
@@ -29,3 +51,8 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+---
+
+<script src="https://gist.github.com/rafszul/29e74b0eafe0cd8f2d923ef60d9053bd.js"></script>
+
